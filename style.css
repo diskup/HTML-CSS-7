@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-position: bottom;
+  background-size: cover;
+  margin-bottom: 50px;
+}
+h2 {
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.item {
+  width: 840px;
+  margin-right: auto;
+  margin-left: auto;
+  border-bottom: 1px solid #d1d1d1;
+  padding-bottom: 30px;
+  margin-top: 30px;
+}
